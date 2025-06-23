@@ -39,7 +39,7 @@
 
 ### 📚 &nbsp;Projects & Publications
 
-- **🧠 No-Code AI Medical Platform** — Pneumonia classifier with React + Flask
+- **🧠 No-Code AI Medical Platform** — Pneumonia classifier with React + Python
 - **📊 Perspectiva** — Interactive Causal Loop tool for IEEE VIS 2025 *(in press)*
 - **🏠 Inspectora** — Property management platform with React Native + Supabase
 - **🧘 Wellness Hub** — Real-time mental health app with Vue + Firebase
