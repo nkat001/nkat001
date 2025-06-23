@@ -39,12 +39,35 @@
 
 ### 📚 &nbsp;Projects & Publications
 
-- **🧠 No-Code AI Medical Platform** — Pneumonia classifier with React + Python
-- **📊 Perspectiva** — Interactive Causal Loop tool for IEEE VIS 2025 *(in press)*
-- **🏠 Inspectora** — Property management platform with React Native + Supabase
-- **🧘 Wellness Hub** — Real-time mental health app with Vue + Firebase
+#### 🚀 Featured Projects
 
-📄 **ETVIS 2024 Publication**: [DOI:10.1145/3715669.3725880](https://dl.acm.org/doi/10.1145/3715669.3725880)
+- **🧠 No-Code AI Medical Platform**  
+  A web tool allowing clinicians to train pneumonia detection models without coding.  
+  Tech: React, Python, Machine Learning  
+
+- **📊 Perspectiva** *(IEEE VIS 2025 – In Press)*  
+  An interactive platform for visualising participatory causal loop diagrams.  
+  Tech: JavaScript, Cytoscape.js, Cola/Fcose  
+
+- **👁️ Gazealytics**  
+  A real-time eye-tracking analytics tool used in energy control room studies.  
+  Tech: JavaScript, Python, Tobii Glasses, Visualisation Libraries  
+
+- **🏠 Inspectora**  
+  A full-stack platform for managing property inspections and syncing mobile reports.  
+  Tech: React, React Native, Node.js, Supabase  
+
+- **🧘 Wellness Hub**  
+  A mental health platform with real-time consultations, community support, and resource sharing.  
+  Tech: Vue, Firebase, Node.js
+
+---
+
+#### 📝 Publications
+
+- **ETVIS 2024 Paper – Gazealytics**  
+  *Co-authored a paper on the design and use of Gazealytics for energy control room research.*  
+  📄 [DOI:10.1145/3715669.3725880](https://dl.acm.org/doi/10.1145/3715669.3725880)
 
 ---
 
