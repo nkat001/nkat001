@@ -43,9 +43,9 @@
 
 - **🧠 No-Code AI Medical Platform**  
   A web tool allowing clinicians to train pneumonia detection models without coding.  
-  Tech: React, Python, Machine Learning  
-
-- **📊 Perspectiva** *(IEEE VIS 2025 – In Press)*  
+  Tech: React, Python, Machine Learning
+  
+- **📊 Perspectiva**  
   An interactive platform for visualising participatory causal loop diagrams.  
   Tech: JavaScript, Cytoscape.js, Cola/Fcose  
 
@@ -68,6 +68,10 @@
 - **ETVIS 2024 Paper – Gazealytics**  
   *Co-authored a paper on the design and use of Gazealytics for energy control room research.*  
   📄 [DOI:10.1145/3715669.3725880](https://dl.acm.org/doi/10.1145/3715669.3725880)
+
+- **IEEE VIS 2025 Paper – Perspectiva**  
+  *Co-authored a peer-reviewed paper on participatory systems modelling with researchers from the Perspectiva PhD project.*  
+  📄 *(Accepted, in press)*
 
 ---
 
